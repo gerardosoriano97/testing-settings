@@ -1,5 +1,4 @@
-
-Hola esta es una pruebva.
+Hola esta es una prueba.
 
 
 Hay que corregir cosas.
