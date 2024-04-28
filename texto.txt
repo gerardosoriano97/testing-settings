@@ -1,4 +1,3 @@
 Hola esta es una prueba.
 
-
-Hay que corregir cosas.
+Corregimos y cambiamos la historia de este archivo.
